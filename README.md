@@ -1,12 +1,12 @@
 # Animated GIF Exercise
 
-Welcome! In this assignment, you are to create an animated picture of yourself in GIF format using Photoshop.
+Welcome! In this assignment, you are to create an animated picture of yourself in GIF format using a raster image editing software appication of your choice.
 
 ## Requirements
 
 Do the following:
 
-### Photoshop requirements
+### Image requirements
 
 Use your imagination and create a complex animation based on a narrative that can be either serious or humorous.
 
@@ -41,7 +41,7 @@ The work you do in this assignment will be published to the same directory where
 
 In order to submit this assignment, you must publish all modified files to the web and upload the code to GitHub.
 
-You **must** include your original Photoshop `.psd` document in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.gif` format, with animation.
+You **must** include your original editable source document (Photoshop `.psd`, or other file format, if using another tool) in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.gif` format, with animation.
 
 ### Upload the web page to a web server
 
